@@ -4,6 +4,8 @@ All this does currently is display your current remaining full reloads above you
 
 I could really use some help with improving this mod. It was already a struggle to get just this working, and I am having a lot of trouble implementing a few things I want to add. Most notably, I would like it to override the total ammo by default, with a config option to instead show it as a separate UI element. I have tried to figure this out on my own but it just won't work for me. I am out of ideas. If someone can please help, my Discord is Pollychan#8281, or you can message me here on mod.io. Thank you.
 
+Github link: https://github.com/PollyEdaline/ReloadCounter
+
 ## Known issues
 
 These are all the issues with the mod that I know about. Sadly, I don't really know how to fix most of them.
