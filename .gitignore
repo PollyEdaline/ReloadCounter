@@ -73,3 +73,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Remove unnecessary folders
+Engine/
+Visualizers/
+Games/FSD/References
+Games/FSD/Config
+Games/FSD/Plugins
+Games/FSD/Source

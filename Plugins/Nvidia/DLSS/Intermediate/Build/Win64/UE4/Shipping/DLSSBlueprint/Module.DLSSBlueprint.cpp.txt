@@ -1,0 +1,15 @@
+Z:\Games\DRG_Modding_Tools_28-4-22\AmmoMagCounter\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4\Shipping\DLSSBlueprint\Definitions.DLSSBlueprint.h
+Z:/Games/DRG_Modding_Tools_28-4-22/AmmoMagCounter/Plugins/Nvidia/DLSS/Source/DLSSBlueprint/Private/DLSSBlueprintModule.cpp
+Z:/Games/DRG_Modding_Tools_28-4-22/AmmoMagCounter/Plugins/Nvidia/DLSS/Source/DLSSBlueprint/Private/DLSSLibrary.cpp
+Z:\Games\DRG_Modding_Tools_28-4-22\AmmoMagCounter\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\DLSSLibrary.h
+Z:\Games\DRG_Modding_Tools_28-4-22\AmmoMagCounter\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\UDLSSMode.h
+Z:\Games\DRG_Modding_Tools_28-4-22\AmmoMagCounter\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4\Inc\DLSSBlueprint\UDLSSMode.generated.h
+Z:\Games\DRG_Modding_Tools_28-4-22\AmmoMagCounter\Plugins\Nvidia\DLSS\Source\DLSSBlueprint\Public\UDLSSSupport.h
+Z:\Games\DRG_Modding_Tools_28-4-22\AmmoMagCounter\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4\Inc\DLSSBlueprint\UDLSSSupport.generated.h
+Z:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/NoExportTypes.h
+Z:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/PropertyAccessUtil.h
+Z:\Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.h
+Z:\Games\UE_4.27\Engine\Source\Runtime\Core\Public\Math/UnitConversion.inl
+Z:\Games\UE_4.27\Engine\Source\Runtime\Core\Public\Internationalization/PolyglotTextData.h
+Z:\Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\AssetRegistry/ARFilter.h
+Z:\Games\DRG_Modding_Tools_28-4-22\AmmoMagCounter\Plugins\Nvidia\DLSS\Intermediate\Build\Win64\UE4\Inc\DLSSBlueprint\DLSSLibrary.generated.h
