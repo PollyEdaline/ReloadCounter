@@ -79,3 +79,8 @@ Engine/
 Visualizers/
 Source/
 Plugins/
+ReloadCounterBuild/WindowsNoEditor/Engine/
+ReloadCounterBuild/WindowsNoEditor/FSD/Binaries/
+ReloadCounterBuild/WindowsNoEditor/FSD/Config/
+ReloadCounterBuild/WindowsNoEditor/FSD/Plugins/
+ReloadCounterBuild/WindowsNoEditor/FSD/Saved/
