@@ -1,6 +1,6 @@
 Reload Counter
 ====
-Displays your current remaining full reloads instead of your remaining ammo. I made this for a certain person who has OCD for accessibility reasons.
+Displays your current remaining full reloads instead of your remaining ammo. I made this for someone with OCD for accessibility reasons.
 
 ## Known issues
 
